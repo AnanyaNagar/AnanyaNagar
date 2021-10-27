@@ -1,5 +1,5 @@
 ![Intro Image](https://github.com/AnanyaNagar/AnanyaNagar/blob/main/Intro%20Image.png)
-<h4 align="center">Motivated undergraduate student pursuing Bachelors in Technology in Computer Science and Engineering. Seeking an internship where I can apply my strong analytical thinking to explore opportunities in the field of Machine Learning and Computer Science in the goal-oriented work environment.</h3>
+<h3 align="center">Motivated undergraduate student pursuing Bachelors in Technology in Computer Science and Engineering. Seeking an internship where I can apply my strong analytical thinking to explore opportunities in the field of Machine Learning and Computer Science in the goal-oriented work environment.</h3>
 
 ### Tools and Technologies I'm familiar with🙌 :
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen.png)
