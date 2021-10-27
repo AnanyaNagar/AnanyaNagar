@@ -20,7 +20,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnanyaNagar&theme=dark)](https://git.io/streak-stats)
 
 
-### My Activity👩‍💻
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
