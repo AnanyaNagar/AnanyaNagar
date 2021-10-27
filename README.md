@@ -4,8 +4,8 @@
 - You can connect me on👇
     - [Twitter](https://twitter.com/Nagar_Ananya)
     - [LinkedIn](https://www.linkedin.com/in/ananya-nagar-986070190)
-    - [Kaggle](https://www.kaggle.com/ananyanagar)
-    - [Gmail](ananyanagar32@gmail.com)
+    - [Kaggle](https://www.kaggle.com/ananyanagar) or,
+    - Mail me on: ananyanagar32@gmail.com
 
 - Tools and Technologies I'm familiar with🙌 :
   - Python
