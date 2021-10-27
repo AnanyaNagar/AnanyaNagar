@@ -21,6 +21,11 @@
 
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#2](https://github.com/swati-gwc/test1/pull/2) in [swati-gwc/test1](https://github.com/swati-gwc/test1)
+2. 🗣 Commented on [#1](https://github.com/swati-gwc/test1/issues/1) in [swati-gwc/test1](https://github.com/swati-gwc/test1)
+3. 💪 Opened PR [#2](https://github.com/swati-gwc/test2/pull/2) in [swati-gwc/test2](https://github.com/swati-gwc/test2)
+4. 💪 Opened PR [#1](https://github.com/APOORVANAGAR-2002/Hello-World-LHD/pull/1) in [APOORVANAGAR-2002/Hello-World-LHD](https://github.com/APOORVANAGAR-2002/Hello-World-LHD)
+5. ❗️ Closed issue [#5](https://github.com/AnanyaNagar/markdown-portfolio/issues/5) in [AnanyaNagar/markdown-portfolio](https://github.com/AnanyaNagar/markdown-portfolio)
 <!--END_SECTION:activity-->
 
 
