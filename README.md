@@ -28,7 +28,7 @@
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaNagar&layout=compact&theme=dark" alt="Top Languages">
 </a>
 <a href="https://git.io/streak-stats">
-  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnanyaNagar&theme=dark" alt="Github Streak">
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnanyaNagar&theme=dark" alt="Github Streak">
 </a>
   
 
