@@ -2,6 +2,7 @@
 
 - I am currently exploring Machine Learning and Web Development🤖
 - I am a core team member of [GDSC-MUST](https://github.com/GDSC-MUST-21)
+- Aiming to get involved in the communities and share  my knowledge to the world!
 
 
 ## Tools and Technologies I'm familiar with🙌 :
@@ -16,11 +17,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VsCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-## You can connect me on👇
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Nagar_Ananya)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananya-nagar-986070190)
-[![Polywork](https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white)](https://www.polywork.com/nagar_ananya)
-
 
 ## My Stats✨
 
@@ -31,6 +27,13 @@
   <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnanyaNagar&theme=dark" alt="Github Streak">
 </a>
   
+  
+## You can connect me on👇
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Nagar_Ananya)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananya-nagar-986070190)
+[![Polywork](https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white)](https://www.polywork.com/nagar_ananya)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananyanagar32@gmail.com)
+
 
 ## My Activity👩‍💻
 <!--START_SECTION:activity-->
