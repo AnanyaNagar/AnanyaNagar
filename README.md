@@ -23,9 +23,13 @@
 
 
 ## My Stats✨
-  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaNagar&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnanyaNagar&theme=dark)](https://git.io/streak-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaNagar&layout=compact&theme=dark" alt="Top Languages">
+</a>
+<a href="https://git.io/streak-stats">
+  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnanyaNagar&theme=dark" alt="Github Streak">
+</a>
   
 
 ## My Activity👩‍💻
