@@ -1,9 +1,12 @@
 ![Intro Image](https://github.com/AnanyaNagar/AnanyaNagar/blob/main/Intro.png)
 
-- I am currently exploring Machine Learning🤖
-- I am a part of [GDSC-MUST](https://github.com/GDSC-MUST-21)
+- I am currently exploring Machine Learning and Web Development🤖
+- I am a core team member of [GDSC-MUST](https://github.com/GDSC-MUST-21)
+
 
 ## Tools and Technologies I'm familiar with🙌 :
+
+
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen.png)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
@@ -21,7 +24,8 @@
 
 ## My Stats✨
   
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaNagar&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnanyaNagar&theme=dark)](https://git.io/streak-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaNagar&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnanyaNagar&theme=dark)](https://git.io/streak-stats)
   
 
 ## My Activity👩‍💻
