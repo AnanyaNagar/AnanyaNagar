@@ -1,7 +1,9 @@
-![Intro Image](https://github.com/AnanyaNagar/AnanyaNagar/blob/main/Intro%20Image.png)
-<h3 align="center">Motivated undergraduate student pursuing Bachelors in Technology in Computer Science and Engineering. Seeking an internship where I can apply my strong analytical thinking to explore opportunities in the field of Machine Learning and Computer Science in the goal-oriented work environment.</h3>
+![Intro Image](https://github.com/AnanyaNagar/AnanyaNagar/blob/main/Intro.png)
 
-### Tools and Technologies I'm familiar with🙌 :
+- I am currently exploring Machine Learning🤖
+- I am a part of [GDSC-MUST](https://github.com/GDSC-MUST-21)
+
+## Tools and Technologies I'm familiar with🙌 :
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen.png)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
@@ -11,15 +13,21 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VsCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-### You can connect me on👇
+## You can connect me on👇
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Nagar_Ananya)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananya-nagar-986070190)
 [![Polywork](https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white)](https://www.polywork.com/nagar_ananya)
 
+
+## My Stats✨
+<div align="center">
+  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaNagar&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnanyaNagar&theme=dark)](https://git.io/streak-stats)
+  
+</div>
 
-
+## My Activity👩‍💻
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#2](https://github.com/swati-gwc/test1/pull/2) in [swati-gwc/test1](https://github.com/swati-gwc/test1)
 2. 🗣 Commented on [#1](https://github.com/swati-gwc/test1/issues/1) in [swati-gwc/test1](https://github.com/swati-gwc/test1)
