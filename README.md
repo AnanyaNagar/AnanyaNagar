@@ -37,11 +37,11 @@
 
 ## My Activity👩‍💻
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/APOORVANAGAR-2002/breast-cancer-predictor/pull/2) in [APOORVANAGAR-2002/breast-cancer-predictor](https://github.com/APOORVANAGAR-2002/breast-cancer-predictor)
-2. 💪 Opened PR [#1](https://github.com/APOORVANAGAR-2002/bluetooth/pull/1) in [APOORVANAGAR-2002/bluetooth](https://github.com/APOORVANAGAR-2002/bluetooth)
-3. 💪 Opened PR [#2](https://github.com/swati-gwc/test1/pull/2) in [swati-gwc/test1](https://github.com/swati-gwc/test1)
-4. 🗣 Commented on [#1](https://github.com/swati-gwc/test1/issues/1) in [swati-gwc/test1](https://github.com/swati-gwc/test1)
-5. 💪 Opened PR [#2](https://github.com/swati-gwc/test2/pull/2) in [swati-gwc/test2](https://github.com/swati-gwc/test2)
+1. 💪 Opened PR [#3](https://github.com/APOORVANAGAR-2002/breast-cancer-predictor/pull/3) in [APOORVANAGAR-2002/breast-cancer-predictor](https://github.com/APOORVANAGAR-2002/breast-cancer-predictor)
+2. 💪 Opened PR [#2](https://github.com/APOORVANAGAR-2002/breast-cancer-predictor/pull/2) in [APOORVANAGAR-2002/breast-cancer-predictor](https://github.com/APOORVANAGAR-2002/breast-cancer-predictor)
+3. 💪 Opened PR [#1](https://github.com/APOORVANAGAR-2002/bluetooth/pull/1) in [APOORVANAGAR-2002/bluetooth](https://github.com/APOORVANAGAR-2002/bluetooth)
+4. 💪 Opened PR [#2](https://github.com/swati-gwc/test1/pull/2) in [swati-gwc/test1](https://github.com/swati-gwc/test1)
+5. 🗣 Commented on [#1](https://github.com/swati-gwc/test1/issues/1) in [swati-gwc/test1](https://github.com/swati-gwc/test1)
 <!--END_SECTION:activity-->
 
 
