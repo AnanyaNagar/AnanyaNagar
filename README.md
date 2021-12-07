@@ -42,11 +42,11 @@ Harry Potter Invisibility Cloak|[link](https://github.com/AnanyaNagar/Harry-Pott
 
 ## My Activity👩‍💻
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/APOORVANAGAR-2002/breast-cancer-predictor/pull/5) in [APOORVANAGAR-2002/breast-cancer-predictor](https://github.com/APOORVANAGAR-2002/breast-cancer-predictor)
-2. 💪 Opened PR [#3](https://github.com/APOORVANAGAR-2002/breast-cancer-predictor/pull/3) in [APOORVANAGAR-2002/breast-cancer-predictor](https://github.com/APOORVANAGAR-2002/breast-cancer-predictor)
-3. 💪 Opened PR [#2](https://github.com/APOORVANAGAR-2002/breast-cancer-predictor/pull/2) in [APOORVANAGAR-2002/breast-cancer-predictor](https://github.com/APOORVANAGAR-2002/breast-cancer-predictor)
-4. 💪 Opened PR [#1](https://github.com/APOORVANAGAR-2002/bluetooth/pull/1) in [APOORVANAGAR-2002/bluetooth](https://github.com/APOORVANAGAR-2002/bluetooth)
-5. 💪 Opened PR [#2](https://github.com/swati-gwc/test1/pull/2) in [swati-gwc/test1](https://github.com/swati-gwc/test1)
+1. 💪 Opened PR [#6](https://github.com/APOORVANAGAR-2002/breast-cancer-predictor/pull/6) in [APOORVANAGAR-2002/breast-cancer-predictor](https://github.com/APOORVANAGAR-2002/breast-cancer-predictor)
+2. 💪 Opened PR [#5](https://github.com/APOORVANAGAR-2002/breast-cancer-predictor/pull/5) in [APOORVANAGAR-2002/breast-cancer-predictor](https://github.com/APOORVANAGAR-2002/breast-cancer-predictor)
+3. 💪 Opened PR [#3](https://github.com/APOORVANAGAR-2002/breast-cancer-predictor/pull/3) in [APOORVANAGAR-2002/breast-cancer-predictor](https://github.com/APOORVANAGAR-2002/breast-cancer-predictor)
+4. 💪 Opened PR [#2](https://github.com/APOORVANAGAR-2002/breast-cancer-predictor/pull/2) in [APOORVANAGAR-2002/breast-cancer-predictor](https://github.com/APOORVANAGAR-2002/breast-cancer-predictor)
+5. 💪 Opened PR [#1](https://github.com/APOORVANAGAR-2002/bluetooth/pull/1) in [APOORVANAGAR-2002/bluetooth](https://github.com/APOORVANAGAR-2002/bluetooth)
 <!--END_SECTION:activity-->
 
 
