@@ -1,4 +1,4 @@
-![Intro Image](https://github.com/AnanyaNagar/AnanyaNagar/blob/main/Intro.png)
+![Intro Image](https://github.com/AnanyaNagar/AnanyaNagar/blob/main/Github.gif)
 
 - I am currently exploring Machine Learning and Web Development🤖
 - I am a core team member of [GDSC-MUST](https://github.com/GDSC-MUST-21)
