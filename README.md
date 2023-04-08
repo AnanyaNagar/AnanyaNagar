@@ -1,4 +1,4 @@
-![Intro Image](https://github.com/AnanyaNagar/AnanyaNagar/blob/main/Github.gif)
+
 
 - I am currently exploring Web Development🤖
 - Former-intern Atlassian
