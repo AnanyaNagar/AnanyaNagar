@@ -1,7 +1,7 @@
 
 
 - I am currently exploring Web Development🤖
-- Former-intern Atlassian
+- Former-employee Atlassian
 - Prev. core team member [GDSC-MUST](https://github.com/GDSC-MUST-21)
 - Aiming to get involved in the communities and share  my knowledge to the world!
 
